@@ -1,0 +1,69 @@
+/* Custom CSS for Array Operations Website */
+
+body {
+    background-color: #eaeaea; /* Light gray background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333; /* Dark text color */
+}
+
+.card {
+    border: 1px solid #ddd;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    color: #4CAF50; /* Green text color */
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-control {
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+.btn {
+    margin-right: 15px;
+    background-color: #4CAF50; /* Green button color */
+    color: #fff; /* White text color */
+    border: 1px solid #4CAF50; /* Green border */
+}
+
+#result {
+    padding: 12px;
+    background-color: #f9f9f9; /* Light background color */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: #333; /* Dark text color */
+}
+
+#entityList {
+    list-style: none;
+    padding: 0;
+}
+
+#entityList .list-group-item {
+    background-color: #f9f9f9; /* Light background color */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 8px;
+    padding: 12px;
+    color: #333; /* Dark text color */
+}
